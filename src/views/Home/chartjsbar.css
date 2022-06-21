@@ -1,0 +1,10 @@
+.wraper {
+    overflow-x: scroll !important;
+}
+
+.inside-wraper {
+    display: flex !important;
+    width: 110% !important;
+    height: 100% !important;
+    align-items: center !important;
+ }
